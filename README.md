@@ -34,3 +34,15 @@
 4 - Менеджер/управляющий подтверждает отправку заказа опираясь на актуальный график размещения заказов. Отправленный заказ заносится в список оформленных заказов.  
 ## Диаграмма прецедентов
 ![none](https://github.com/Amina108/Amina108.github.io/blob/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D1%80%D0%B5%D1%86%D0%B5%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_%D0%BB%D0%B0%D0%B1%D0%B02.png)
+
+## Лабораторная 3
+
+# DFD-диаграмма: Отправить заказ
+![none](https://github.com/Amina108/Amina108.github.io/blob/main/%D0%9B%D0%B0%D0%B1%D0%B03.1.png)
+
+# Диаграмма последовательностей
+![none](https://github.com/Amina108/Amina108.github.io/blob/main/%D0%9B%D0%B0%D0%B1%D0%B03.2.png)
+
+# ER-диаграмма
+![none](https://github.com/Amina108/Amina108.github.io/blob/main/%D0%9B%D0%B0%D0%B1%D0%B03.3.png)
+
